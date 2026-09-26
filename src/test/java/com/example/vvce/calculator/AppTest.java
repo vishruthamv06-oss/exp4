@@ -14,6 +14,9 @@ public class AppTest {
 	void testsubstract() {
 		assertEquals(15,app.sub(20,5));
 	}
+	void testmulti() {
+		assertEquals(10,app.multi(2, 5));
+	}
 
    
    
